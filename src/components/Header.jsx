@@ -22,7 +22,7 @@ export default function Header() {
 
 				<a
 					href="/"
-					className="flex items-center gap-2 specialBtn px-3 py-2 rounded-lg text-blue-400"
+					className="flex items-center gap-2 px-3 py-2 rounded-lg text-white/90 bg-blue-700/70 shadow-xl cursor-pointer"
 				>
 					<p>New</p>
 					<FaPlus />
